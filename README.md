@@ -62,3 +62,16 @@ To build reliable backend systems and practical AI solutions that solve real-wor
 ---
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aksajax&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksajax&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aksajax&theme=tokyonight&hide_border=true)
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aksajax&theme=tokyo-night&hide_border=true)
